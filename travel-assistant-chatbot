@@ -1,0 +1,27 @@
+# Travel Assistant Chatbot
+
+## Overview
+This project is a Python chatbot designed to help users plan trips by offering travel tips, packing suggestions, and destination ideas.
+
+## Problem
+Travel planning can be overwhelming for people who are unsure where to go or what to pack.
+
+## My Approach
+I built a chatbot that interacts with the user through the terminal. The chatbot asks questions about travel preferences and then provides helpful suggestions.
+
+## Tools Used
+- Python
+- VS Code
+- GitHub
+
+## What I Learned
+Through this project I improved my understanding of:
+- Python functions
+- Conditional statements
+- Exception handling
+- User interaction design
+
+## Future Improvements
+In the future I would like to add:
+- API integration for weather or flight data
+- A graphical interface
